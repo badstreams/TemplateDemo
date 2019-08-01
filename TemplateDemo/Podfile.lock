@@ -1,0 +1,65 @@
+PODS:
+  - Alamofire (4.8.2)
+  - DZNEmptyDataSet (1.8.1)
+  - KeychainSwift (16.0.1)
+  - Kingfisher (4.10.1)
+  - MJRefresh (3.2.0)
+  - Moya (13.0.1):
+    - Moya/Core (= 13.0.1)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - PromiseKit (6.10.0):
+    - PromiseKit/CorePromise (= 6.10.0)
+    - PromiseKit/Foundation (= 6.10.0)
+    - PromiseKit/UIKit (= 6.10.0)
+  - PromiseKit/CorePromise (6.10.0)
+  - PromiseKit/Foundation (6.10.0):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.10.0):
+    - PromiseKit/CorePromise
+  - Realm (3.17.3):
+    - Realm/Headers (= 3.17.3)
+  - Realm/Headers (3.17.3)
+  - RealmSwift (3.17.3):
+    - Realm (= 3.17.3)
+  - Result (4.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - DZNEmptyDataSet
+  - KeychainSwift (~> 16.0)
+  - Kingfisher
+  - MJRefresh
+  - Moya
+  - PromiseKit
+  - RealmSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - DZNEmptyDataSet
+    - KeychainSwift
+    - Kingfisher
+    - MJRefresh
+    - Moya
+    - PromiseKit
+    - Realm
+    - RealmSwift
+    - Result
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  KeychainSwift: 4209611373ca4a098e09b1e547eebd87c544dcc4
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  PromiseKit: 1fdaeb6c0a94a5114fcb814ff3d772b86886ad4e
+  Realm: 5a1d9d47bfc101dd597668b1a8af4288a2557f6d
+  RealmSwift: b7fdc2d18616621c31df5c7a398a45a2163f8eb0
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+
+PODFILE CHECKSUM: 1ccc74d010ad3edb076e1b57027e86b553989942
+
+COCOAPODS: 1.6.1
